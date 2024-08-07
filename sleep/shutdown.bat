@@ -1,1 +1,1 @@
-shutdown /s /t 7200
+shutdown /s /t 3600
